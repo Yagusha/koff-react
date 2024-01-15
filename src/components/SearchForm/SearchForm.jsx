@@ -24,7 +24,7 @@ export const SearchForm = () => (
         <path
           d="M14.6667 14.6666L13.3334 13.3333"
           stroke="currentColor"
-          strokWidth="1.5"
+          strokeWidth="1.5"
           strokeLinecap="round"
           strokeLinejoin="round"
         />
