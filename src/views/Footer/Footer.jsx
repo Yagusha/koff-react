@@ -14,12 +14,10 @@ export const Footer = () => (
             <div className={s.contacts}>
                 <Contacts />
             </div>
-            <div className={s.evelopedr}>
+            <div className={s.developer}>
                 <DeveloperList />
             </div>
-            <p className={s.copyright}>
-                <Copyright />
-            </p>
+            <p className={s.copyright}>© Koff, 2024</p>
         </Container>
     </footer>
 )
